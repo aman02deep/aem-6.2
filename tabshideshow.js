@@ -30,8 +30,8 @@
  *                 + column
  *                   + items
  *                     + mydropdown
- *                       - class = "cq-dialog-dropdown-tab-showhide"
- *                       - cq-dialog-dropdown-tab-showhide-target = ".list-option-tab-showhide-target"     // this is a selector for tabs
+ *                       - class = "cq-dialog-tab-showhide"
+ *                       - cq-dialog-tab-showhide-target = ".list-option-tab-showhide-target"     // this is a selector for tabs
  *                       + items
  *                         + opentab2
  *                           - text = "Open Tab 2"
